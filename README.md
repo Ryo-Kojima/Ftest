@@ -1,2 +1,2 @@
 # Ftest
-test acount.
+test account.
